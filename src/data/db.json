@@ -1,0 +1,34 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "Ramesh Kumar",
+      "email": "ramesh@in.com",
+      "mobile": "899089898",
+      "address": "No 2\nRamraj street, chennai\nIndai",
+      "type": "MNC",
+      "customergroup": "level1",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Chris Gayle",
+      "email": "gr@in.com",
+      "mobile": "7899000000",
+      "address": "address1",
+      "type": "MNC",
+      "customergroup": "level2",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Andy bicheal",
+      "email": "ab@in.com",
+      "mobile": "test@in.com",
+      "address": "",
+      "type": "MNC",
+      "customergroup": "level1",
+      "status": true
+    }
+  ]
+}
